@@ -1,1 +1,1 @@
-# InterNetStatusChecker
+# InternetStatusChecker
